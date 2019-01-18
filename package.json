@@ -1,0 +1,23 @@
+{
+  "name": "dyn_data",
+  "version": "1.0.0",
+  "description": "Some data sets for [dyn](https://github.com/kyleparisi/dyn).",
+  "main": "import.js",
+  "dependencies": {
+    "aws-sdk": "^2.390.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleparisi/dyn_data.git"
+  },
+  "author": "Kyle Parisi (http://blog.kyleparisi.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleparisi/dyn_data/issues"
+  },
+  "homepage": "https://github.com/kyleparisi/dyn_data#readme"
+}
