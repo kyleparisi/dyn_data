@@ -4,7 +4,8 @@ Some data sets for [dyn](https://github.com/kyleparisi/dyn).
 
 ## Movies
 
-```js
+```bash
+# npm i
 node load.js
 node import.js
 ```
